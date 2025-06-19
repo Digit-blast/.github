@@ -18,6 +18,9 @@ Please delete options that are not relevant.
 
 List the major changes made in this pull request.
 
+- [ ] Change 1
+- [ ] Change 2
+
 
 ## How Has This Been Tested?
 
